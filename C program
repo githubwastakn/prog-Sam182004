@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+  int A = 90;
+  int B = 10;
+  int sum = A + B;
+  printf("the sum of two integers is: %d", sum);
+  return 0;
+}
